@@ -1,0 +1,15 @@
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/MainTask.csproj.AssemblyReference.cache
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/MainTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/MainTask.AssemblyInfoInputs.cache
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/MainTask.AssemblyInfo.cs
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/MainTask.csproj.CoreCompileInputs.cache
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/bin/Debug/net7.0/MainTask
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/bin/Debug/net7.0/MainTask.deps.json
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/bin/Debug/net7.0/MainTask.runtimeconfig.json
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/bin/Debug/net7.0/MainTask.dll
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/bin/Debug/net7.0/MainTask.pdb
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/MainTask.dll
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/refint/MainTask.dll
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/MainTask.pdb
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/MainTask.genruntimeconfig.cache
+/Users/Stas/Documents/GeekBrains/Python/PythonHW/MainTask/obj/Debug/net7.0/ref/MainTask.dll
